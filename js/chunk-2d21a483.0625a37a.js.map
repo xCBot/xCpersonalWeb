@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/vue-mv/marvel/LOGO.jpg"],"names":["module","exports"],"mappings":"mGAAAA,EAAOC,QAAU,IAA0B","file":"js/chunk-2d21a483.0625a37a.js","sourcesContent":["module.exports = __webpack_public_path__ + \"img/LOGO.441c2510.jpg\";"],"sourceRoot":""}
