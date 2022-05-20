@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/Index/Player/cover1.jpeg"],"names":["module","exports"],"mappings":"mGAAAA,EAAOC,QAAU,IAA0B","file":"js/chunk-2d225427.cd79a7e5.js","sourcesContent":["module.exports = __webpack_public_path__ + \"img/cover1.f3a1c22c.jpeg\";"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/vue-shopping/contents/fish.jpeg"],"names":["module","exports"],"mappings":"mGAAAA,EAAOC,QAAU,IAA0B","file":"js/chunk-2d224ce6.15d9837b.js","sourcesContent":["module.exports = __webpack_public_path__ + \"img/fish.490df011.jpeg\";"],"sourceRoot":""}
